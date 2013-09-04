@@ -1,0 +1,3 @@
+This is a infinite runner game I was working on for the Ludum Dare 27 Game Jam on August 23-25, 2013. I was working from a tutorial I found online and was going to add a timer to the game that would be part of the "10 seconds" theme. My plan was to have the game end after 10 seconds is up, have powerups that add time to the game timer, have powerdowns that slow you down and lose time from the timer, and possibly have platforms that speed up, slow down, and add time to the timer. 
+
+I was able to get the basic runner game going but was unable to get the timer to work properly. I will mostly likely create a version of the game that is just the infinite runner game and work on adding the timer to the game at a later date. 
